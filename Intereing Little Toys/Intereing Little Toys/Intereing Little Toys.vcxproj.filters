@@ -16,10 +16,16 @@
     <Filter Include="源文件\MouseClicker">
       <UniqueIdentifier>{c77fa0e6-fb59-4f7a-bf89-db525f240a6a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\EnglishPassageFilter">
+      <UniqueIdentifier>{ff9c385f-0d11-4ac5-8b95-8037a65706af}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MouseClicker.cpp">
       <Filter>源文件\MouseClicker</Filter>
+    </ClCompile>
+    <ClCompile Include="TextFileEnglishPassageFilter.cpp">
+      <Filter>源文件\EnglishPassageFilter</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
