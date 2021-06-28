@@ -1,4 +1,5 @@
 #include<Windows.h>
+int x=1;
 int main(void) {
 	while (true)
 	{
